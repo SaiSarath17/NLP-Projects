@@ -1,2 +1,2 @@
-# NLP-Projects-
+# NLP-Projects
 collection of my NLP Projects/Assignments 
